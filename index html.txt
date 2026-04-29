@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Kalyani Yeruva Portfolio</title>
+<style>
+body {
+    font-family: Arial;
+    margin: 40px;
+    background-color: #f4f4f4;
+}
+h1 { color: #2c3e50; }
+section {
+    background: white;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+}
+</style>
+</head>
+
+<body>
+
+<h1>Kalyani Yeruva</h1>
+<p><b>Aspiring AWS DevOps Engineer</b></p>
+
+<section>
+<h2>About Me</h2>
+<p>
+Final-year student passionate about AWS, DevOps, and Machine Learning.
+Worked on a research-based hybrid deep learning model for healthcare prediction.
+</p>
+</section>
+
+<section>
+<h2>Skills</h2>
+<ul>
+<li>AWS (EC2, S3 - Learning)</li>
+<li>Git & GitHub</li>
+<li>Python Basics</li>
+<li>Machine Learning Basics</li>
+<li>Linux Basics</li>
+</ul>
+</section>
+
+<section>
+<h2>Project</h2>
+<h3>AttenTabTCN-Fuse Model for Wilson’s Disease Prediction</h3>
+
+<p>
+Developed a hybrid deep learning model combining TabNet, Temporal Convolutional Networks (TCN),
+and Attention Fusion for predicting neurological deterioration in Wilson’s Disease.
+</p>
+
+<ul>
+<li>Used HashRFE for feature selection</li>
+<li>Applied SparVAE for denoising and compression</li>
+<li>Used SMOTE for class imbalance handling</li>
+<li>Achieved 99.95% accuracy</li>
+</ul>
+
+<p>
+This model integrates clinical, biochemical, and MRI data for better prediction.
+</p>
+</section>
+
+<section>
+<h2>Research Publication</h2>
+<p>
+Scopus-indexed research paper on hybrid deep learning for neurological disease prediction.
+</p>
+</section>
+
+<section>
+<h2>Contact</h2>
+<p>Email: yourmail@gmail.com</p>
+</section>
+
+</body>
+</html>
